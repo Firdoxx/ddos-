@@ -1,1 +1,1 @@
-CMD ["node", "tlss.js", "https://www.smkn1katapang.sch.id/", "120", "3600", "250"]
+
